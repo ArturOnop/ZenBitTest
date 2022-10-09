@@ -1,0 +1,2 @@
+export const SUBMIT_FORM_FAILURE = 'SUBMIT_FORM_FAILURE'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
